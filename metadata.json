@@ -1,0 +1,6 @@
+{
+  "name": "Smart Kisaan",
+  "description": "Farmer-first agricultural market intelligence and decision-support platform. Know the price, compare markets, and sell smarter.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
